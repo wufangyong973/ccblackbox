@@ -42,8 +42,8 @@
     "ARCHITECTURE.md"
   ],
   "scripts": {
-    "dev": "vite",
-    "build": "tsc -b && vite build",
+    "dev": "node api.js && vite",
+    "build": "node api.js && tsc -b && vite build",
     "parse": "node scripts/parse-sessions.mjs",
     "serve": "node scripts/serve.mjs",
     "lint": "eslint .",
