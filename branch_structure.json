@@ -1,0 +1,30 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "add-issue-forms-and-security",
+    "dependabot/github_actions/actions/checkout-7",
+    "dependabot/github_actions/actions/setup-node-7",
+    "dependabot/github_actions/pnpm/action-setup-6",
+    "dependabot/npm_and_yarn/dependencies-69f4b7aba3",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "add-issue-forms-and-security": "main",
+    "dependabot/github_actions/actions/checkout-7": "main",
+    "dependabot/github_actions/actions/setup-node-7": "main",
+    "dependabot/github_actions/pnpm/action-setup-6": "main",
+    "dependabot/npm_and_yarn/dependencies-69f4b7aba3": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "add-issue-forms-and-security",
+    "dependabot/github_actions/actions/checkout-7",
+    "dependabot/github_actions/actions/setup-node-7",
+    "dependabot/github_actions/pnpm/action-setup-6",
+    "dependabot/npm_and_yarn/dependencies-69f4b7aba3",
+    "origin"
+  ]
+}
